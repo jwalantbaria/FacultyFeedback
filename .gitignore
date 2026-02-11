@@ -1,0 +1,6 @@
+/vendor/
+.env
+/public/uploads/results/*
+!/public/uploads/results/.gitkeep
+/public/uploads/feedback/*
+!/public/uploads/feedback/.gitkeep

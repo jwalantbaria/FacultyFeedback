@@ -1,0 +1,10 @@
+{
+  "name": "faculty/feedback-report",
+  "description": "Faculty Feedback Report Generator",
+  "require": {
+    "php": ">=8.1",
+    "ext-pdo": "*",
+    "ext-zip": "*",
+    "dompdf/dompdf": "^2.0"
+  }
+}
